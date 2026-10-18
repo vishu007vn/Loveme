@@ -36,7 +36,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Simple-Boy-1k/SIMPLE_MUSIC">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/vishu007vn/Loveme">
 <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 </p>
