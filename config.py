@@ -30,10 +30,10 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ʙ ᴏ ᴛ   ᴀ ɴ ᴅ   ᴏ ᴡ ɴ ᴇ ʀ   ɪ ɴ ғ ᴏ ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Simple_Boy_1k")
-BOT_USERNAME = getenv("BOT_USERNAME", "Senorita_Music11_Bot")
-BOT_NAME = getenv("BOT_NAME", "SENORITA")
-ASSUSERNAME = getenv("ASSUSERNAME", "Simple_Boy_1k")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Lovemeee07")
+BOT_USERNAME = getenv("BOT_USERNAME", "Sweetheartt07_bot")
+BOT_NAME = getenv("BOT_NAME", "")
+ASSUSERNAME = getenv("ASSUSERNAME", "Lovemeee07")
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
