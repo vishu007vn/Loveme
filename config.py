@@ -32,7 +32,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Lovemeee07")
 BOT_USERNAME = getenv("BOT_USERNAME", "Sweetheartt07_bot")
-BOT_NAME = getenv("BOT_NAME", "")
+BOT_NAME = getenv("BOT_NAME", "─‌⃛‌‌⃝❤️⎯᪵ 𝆺꯭𝅥𝐌𝐢꯭𝛅𝛅꯭ 𝐓꯭𝐡꯭꯭𝛂𝐤꯭𝐮꯭፝֟፝֟፝֟፝֟‌𝛑꯭𝐚𝐢꯭𝛈꯭꯭🛍️꯭᪰⎯,🍁⃝")
 ASSUSERNAME = getenv("ASSUSERNAME", "Lovemeee07")
 
 
@@ -55,8 +55,8 @@ API_KEY = getenv("API_KEY", "") # youtube song api key, generate free key or buy
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⚡ DURATION LIMIT MAXED OUT FOR UNLIMITED PLAYBACK
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 999999))
-LOGGER_ID = int(getenv("LOGGER_ID", -1003455128274))
-OWNER_ID = int(getenv("OWNER_ID", 8730025963))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003976296600))
+OWNER_ID = int(getenv("OWNER_ID", 8911274011))
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -70,7 +70,7 @@ DEEP_API = getenv("DEEP_API")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ɢ ɪ ᴛ ʜ ᴜ ʙ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/vishu007vn/Loveme")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -78,8 +78,8 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ s ᴜ ᴘ ᴘ ᴏ ʀ ᴛ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/music_Bot_Adda")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+wcALPiJtMCQ0NWFh")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RPShyariwold")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+C2Rm814XJQs0NDVl")
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
