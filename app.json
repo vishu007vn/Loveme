@@ -38,18 +38,13 @@
       "required": true
     },
     "STRING_SESSION": {
-      "description": "A Pyrogram v2 String Session from @StringSesssionGeneratorRobot on Telegram.",
+      "description": "A Pyrogram v2 String Session from @StringFatherRobot on Telegram.",
       "value": "",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "Your Github repository link for updates.",
       "value": "https://github.com/vishu007vn/Loveme.git",
-      "required": false
-    },
-    "SHRUTI_API_KEY": {
-      "description": "Your YouTube Data API Key.Get Api Key bot ",
-      "value": "",
       "required": false
     },
     "HEROKU_API_KEY": {
