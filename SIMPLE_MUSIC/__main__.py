@@ -76,7 +76,7 @@ async def init():
         importlib.import_module("SIMPLE_MUSIC.plugins" + all_module)
 
     LOGGER("SIMPLE_MUSIC.plugins").info(
-        "𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐲 𝐈𝐬 𝐁𝐫𝐚𝐧𝐝🥳..."
+        "Love me 🍁..."
     )
 
     await userbot.start()
