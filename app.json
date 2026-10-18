@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "31551910",
+      "value": "31134595",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "c2e8e7946d5e4ea947d44b674008f33e",
+      "value": "7f87b2187924e34ae43c18273fe97145",
       "required": true
     },
     "BOT_TOKEN": {
@@ -34,7 +34,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "8885285219",
+      "value": "8946699961",
       "required": true
     },
     "STRING_SESSION": {
@@ -44,11 +44,11 @@
     },
     "UPSTREAM_REPO": {
       "description": "Your Github repository link for updates.",
-      "value": "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC.git",
+      "value": "https://github.com/vishu007vn/Loveme.git",
       "required": false
     },
     "SHRUTI_API_KEY": {
-      "description": "Your YouTube Data API Key.Get Api Key bot @SHRUTIAPIBOT",
+      "description": "Your YouTube Data API Key.Get Api Key bot ",
       "value": "",
       "required": false
     },
@@ -64,17 +64,17 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!.",
-      "value": "-1003455128274",
+      "value": "-1003976296600",
       "required": true
     },
     "SUPPORT_CHAT": {
       "description": "Your support group link.",
-      "value": "https://t.me/+7jFEQBjWNUwzNjMx",
+      "value": "https://t.me/+C2Rm814XJQs0NDVl",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel link.",
-      "value": "https://t.me/musicsupport2",
+      "value": "https://t.me/RPShyariwold",
       "required": false
     },
     "START_IMG_URL": {
