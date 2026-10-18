@@ -89,7 +89,7 @@ async def init():
 
     except NoActiveGroupCall:
         LOGGER("SIMPLE_MUSIC").error(
-            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗦𝗜𝗠𝗣𝗟𝗘 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
+            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
         )
         exit()
 
@@ -99,7 +99,7 @@ async def init():
     await SIMPLE.decorators()
 
     LOGGER("SIMPLE_MUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗜𝗠𝗣𝗟𝗘 𝗕𝗢𝗬\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n ☠︎︎ᴍᴀᴅᴇ ʙʏ ᴘᴀʟʟᴀᴠɪ ꜱᴀʀᴋᴀᴀʀ\n╚═════ஜ۩۞۩ஜ════╝"
     )
 
     await idle()
@@ -108,7 +108,7 @@ async def init():
     await userbot.stop()
 
     LOGGER("SIMPLE_MUSIC").info(
-        "𝗦𝗧𝗢𝗣 𝗦𝗜𝗠𝗣𝗟𝗘 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧.."
+        "𝗦𝗧𝗢𝗣 ♡💖♡ᴘᴀʟʟᴀᴠɪ ꜱᴀʀᴋᴀᴀʀ♡💖♡.."
     )
 
 
